@@ -1,3 +1,3 @@
-CS 550 Ð Database SystemsProject Component 4: Android Application Development.
+Frequent-Flier App
 
-Group Members:1. Sai Ram Dasarapu - G013773102. Roshan Kumar Vemula - G013896883. Rishitha Sai Kavuru - G01394551
+This repository contains a comprehensive 3-tier enterprise application designed to streamline and enhance data interactions within a robust ecosystem using Java Servlets, JSP, and JDBC. The project involves the creation and optimization of a database system using Oracle, complemented by a user-friendly Android application that interacts seamlessly with server-side components.
